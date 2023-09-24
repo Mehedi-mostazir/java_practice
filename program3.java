@@ -4,8 +4,8 @@ public class program3 {
      //outer loops for handeling 
      for (i = 1; i <= 6; i++){
        
-        for (j = 1; j<= i ; j++){
-
+        for (j = 1; j<= i ; j++)
+        {
           System.out.print(" * ");
         }
         System.out.println();
