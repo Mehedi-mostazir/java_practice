@@ -12,5 +12,4 @@ public class evenodd {
       System.out.println("ODD number");
     }
   }
-  
 }
